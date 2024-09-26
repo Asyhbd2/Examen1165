@@ -2,9 +2,10 @@
 Examen con POO y Funciones
 ## Con POO y Funciones llamadas en el objeto
 ## Codigo:
-- ![image](https://github.com/user-attachments/assets/e7bef2b0-7f73-44b1-860a-d26aba0f0575)
-- ![image](https://github.com/user-attachments/assets/1f648c1b-082d-4eeb-88e4-b0e3f3ae989c)
+- ![image](https://github.com/user-attachments/assets/733afb7b-6e96-4e44-8374-14ebdd2e1bed)
+- ![image](https://github.com/user-attachments/assets/ad09a10e-0f6d-48d2-a662-0a08b165c115)
 -
 ## Resultado:
-- ![image](https://github.com/user-attachments/assets/c4dea91d-2052-4b2a-93f0-c651767b5dc0)
+- ![image](https://github.com/user-attachments/assets/de26e5e2-24d5-4aa4-bdac-1b27fba4071c)
+
 
