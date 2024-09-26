@@ -42,7 +42,13 @@ class Inventario1165:
         }
         print(Almacenycondicion)
         for x,y in Almacenycondicion.items():
-            print(x,y)                
+            print(x,y)
+    # Altas y bajas                    
+    def altas1165(self):
+        print("La operacion se realizo correctamente")
+    def bajas1165(self):
+       print("La operacion no se realizo correctamente")
+           
 # Zona de creacion del objeto
 ObjetoInventario=Inventario1165(1,1,35,10,"10/5/24","Almacen C","Todo en orden")
 # Zona de uso de objetos
@@ -54,3 +60,6 @@ print("Lista de Ubicaciones:")
 ObjetoInventario.Lista_Ubicaciones1165()
 print("Diccionarios de almacenes y condicion:")
 ObjetoInventario.Diccionario_Almacen_Condicion1165()
+print("Altas y bajas:")
+ObjetoInventario.altas1165()
+ObjetoInventario.bajas1165()
